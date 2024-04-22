@@ -1,5 +1,5 @@
 # Made By AKShaheen <abdelazizshaheen162@gmail.com> For Python Workshop In Cic
-# Forked by 
+# Forked by ahmedessam
 
 import pygame
 import random
